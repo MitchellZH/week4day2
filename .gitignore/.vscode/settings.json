@@ -1,0 +1,22 @@
+{
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "python.formatting.provider": "none",
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "driver": "PostgreSQL",
+      "connectString": "postgres://rqwvxzex:AazKrSJmuFlw-p7EdqDDPn141XYXNvHD@bubble.db.elephantsql.com/rqwvxzex",
+      "name": "thievesdb"
+    },
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "driver": "PostgreSQL",
+      "connectString": "postgres://fqijvpzz:NcpE3I4L1fM8RQJSFJ8FpAVl1JhYMaJy@mahmud.db.elephantsql.com/fqijvpzz",
+      "name": "movietheater_db"
+    }
+  ]
+}
